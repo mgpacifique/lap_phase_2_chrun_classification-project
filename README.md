@@ -41,6 +41,10 @@ The goal of this project is to build a model that can predict customer churn for
     ```
 
 ### Usage
+pip install -r requirements.txt
+    ```
+
+### Usage
 
 1. Open the Jupyter Notebook:
     ```sh
@@ -54,7 +58,11 @@ The best logistic regression model is saved as `best_log_reg_model.pkl`. You can
 
 ## Dataset
 
-The dataset used in this project is split into two CSV files:
+The first 3000 records of the dataset can be found in a database you will have to access remotely:
+
+Database credantials are found into `.env` file
+
+The remaining dataset is split into two CSV files:
 - `LP2_Telco-churn-second-2000_1.csv`
 - `LP2_Telco-churn-second-2000.csv`
 
