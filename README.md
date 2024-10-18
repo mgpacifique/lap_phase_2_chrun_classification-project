@@ -15,6 +15,7 @@ The goal of this project is to build a model that can predict customer churn for
 - `LP2_Telco-churn-second-2000_1.csv`: First part of the dataset.
 - `LP2_Telco-churn-second-2000.csv`: Second part of the dataset.
 - `README.md`: Project documentation.
+- `requirements.txt`: List of required Python packages.
 
 ## Getting Started
 
@@ -28,7 +29,7 @@ The goal of this project is to build a model that can predict customer churn for
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/mgpacifique/lap_phase_2_chrun_classification-project>
     ```
 2. Navigate to the project directory:
     ```sh
